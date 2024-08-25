@@ -4,24 +4,32 @@
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
-- Soft skills
-- LinkedIn
-- Ética em tecnologia
-- Gestão de tempo
-- Git básico
-- Introdução a TypeScript
-- Métodos de strings
-- Métodos de arrays
+- Introdução ao Docker e Docker compose
+- Introdução a banco de Dados
+- Metodologias ágeis
+- Consultas SQL
+- Modelagem de dados
+- Diversidade e inclusão em tecnologia
+- CRUD SQL
+- Agrupamento e Relacionamento entre Tabelas
+- Marca Pessoal e Plano de Carreira
+- Conexão Node.js com PostgreSQL
+- Autenticação e Criptografia
+- Integração com API de terceiros
+- Git e Fluxo de trabalho em equipe
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-- Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
-- LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
-- Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
-- Gestão de tempo envolve organizar suas tarefas de forma eficaz para fazer o melhor uso do tempo.
-- Git básico é uma ferramenta usada para controlar as diferentes versões de um projeto de software.
-- TypeScript é uma linguagem de programação relacionada ao JavaScript.
-- Métodos de strings são maneiras de manipular texto em programação.
+- O Docker pelo que sei empacota alguns programas em um container mas ainda não conheco muito sobre o seu funcionamento.
+
+- Banco de dados é um sistema que armazena varios dados e informações que usaremos nas aplicações como email e senha do usuario, entre outras informações da aplicação.
+
+- Não sei muito sobre metodologias ágeis, imagino que sejam formas de otimizar o serviço, deixando o trabalho mais rápido e menos cansativo.
+
+- Até onde sei é meio que fazer perguntas ao banco de dados, usando alguns comandos da linguagem SQL, que usamos para se comunicar com o banco de dados.
+
+-
+
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
