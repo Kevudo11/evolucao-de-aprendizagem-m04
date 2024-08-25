@@ -26,25 +26,30 @@
 
 - Não sei muito sobre metodologias ágeis, imagino que sejam formas de otimizar o serviço, deixando o trabalho mais rápido e menos cansativo.
 
-- Até onde sei é meio que fazer perguntas ao banco de dados, usando alguns comandos da linguagem SQL, que usamos para se comunicar com o banco de dados.
+- Até onde sei consultas SQL são usadas para meio que fazer perguntas ao banco de dados, usando alguns comandos da linguagem SQL, que usamos para se comunicar com o banco de dados.
 
--
+- sei que tem a ver com planejar como as informações serão organizadas e armazenadas em um banco de dados.
 
+- Sobre diversidade e inclusão eu sei que é muito importante, tanto no ambiente de trabalho que é a forma que você trata as outras pessoas tanto quanto na conscientização do desenvolvimento da aplicação.
+
+- Ja li algo relacionado a CRUD SQL uma vez, até onde me lembro é um termo usado para descrever as operações basicas que usamos em um banco de dados, usando o SQL, claro.
+
+- Não tenho conhecimento prévio sobre agrupamento e relacionamento entre tabelas.
+
+- Pelo que sei, sua marca pessoal é tipo a sua reputação na sua área e ambiente de trabalho, combinado obviamente as suas hard skills e soft skills. Já um plano de carreira é essencial para o seu futuro, envolve criação de metas e muito planejamento para com passos curtos chegar em seu grande objetivo.
+
+- Até onde sei é conectar o banco de dados ao seu código e fazer eles se interagirem.
+
+- Sobre autenticação e criptografia eu sei o básico que foi passado até aqui, criptografia é uma forma de proteger uma senha do usuario ou outros dados em casos menos comuns, já a autenticação é o processo para confirmar que o usuário que esteja tentando executar alguma ação em nossa API realmente tenha a permissão para isso, é uma forma de deixarmos a nossa aplicação segura.
+
+- Sobre integração com API de terceiros eu sei apenas o básico, sei que tem como usar uma API de terceiros em seu código, como exemplo usarei a imersão, onde o nosso projeto consistia em integrar a API da OpenAI ao nosso projeto, fazendo com que gerasse resumos automáticos para a nossa aplicação.
+
+- Sobre o git e fluxo de trabalho em equipe, imagino que seja formas e metodologias para trabalhar em equipe usando o git, trabalhando conceitos do uso de diferentes branchs para o desenvolvimento de um código entre outras boas práticas.
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
-- Como posso desenvolver minhas habilidades de gestão de tempo e aplicá-las em meu dia a dia?
-- Quero entender como criar um perfil no LinkedIn e como ele pode me ajudar a encontrar oportunidades de emprego.
-- Gostaria de entender melhor o que é ética em tecnologia e por que é importante.
-- Quero entender como o Git funciona e como posso começar a usá-lo para controlar meus projetos de programação.
-- Gostaria de aprender os conceitos básicos de TypeScript e como ele se diferencia do JavaScript.
-- Quero saber o que são métodos de arrays.
+- 
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-- Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas.
-- Entendi que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável.
-- Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades.
-- Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
-- Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
-- Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
+- 
