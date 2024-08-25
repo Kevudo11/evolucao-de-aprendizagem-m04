@@ -28,7 +28,7 @@
 
 - Até onde sei consultas SQL são usadas para meio que fazer perguntas ao banco de dados, usando alguns comandos da linguagem SQL, que usamos para se comunicar com o banco de dados.
 
-- sei que tem a ver com planejar como as informações serão organizadas e armazenadas em um banco de dados.
+- Sei que tem a ver com planejar como as informações serão organizadas e armazenadas em um banco de dados.
 
 - Sobre diversidade e inclusão eu sei que é muito importante, tanto no ambiente de trabalho que é a forma que você trata as outras pessoas tanto quanto na conscientização do desenvolvimento da aplicação.
 
@@ -48,7 +48,31 @@
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
-- 
+- Docker e Docker Compose: Quero entender como funcionam os containers e como usar eles de forma eficiente em um projeto.
+
+- Banco de Dados: Gostaria de aprender sobre os diferentes tipos de bancos de dados e como escolher o melhor para cada aplicação.
+
+- Metodologias Ágeis: Quero saber como aplicar as metodologias no dia a dia para trabalhar de forma mais eficiente.
+
+- Consultas SQL: Quero aprender a escrever os códigos para buscar dados específicos no banco de dados para usá-los em meu projeto.
+
+- Modelagem de Dados: Desejo entender como planejar e criar um modelo de dados eficiente que me permita navegar pelo meu banco de dados de forma mais facilitada.
+
+- Diversidade e Inclusão em Tecnologia: Quero aprender a importância dessas práticas e como aplicá-las para criar um ambiente de trabalho mais justo e colaborativo.
+
+- CRUD SQL: Gostaria de aprender como implementar todas as operações CRUD de maneira eficiente e segura em SQL.
+
+- Agrupamento e Relacionamento entre Tabelas: Espero descobrir oque é e como utilizar de forma eficiente nos meus futuros projetos.
+
+- Marca Pessoal e Plano de Carreira: Desejo saber como construir uma marca pessoal forte e criar um plano de carreira que me ajude a alcançar meus     objetivos profissionais.
+
+- Conexão Node.js com PostgreSQL: Quero aprender como conectar meu aplicativo Node.js a um banco de dados PostgreSQL e realizar as operações.
+
+- Autenticação e Criptografia: Quero entender como proteger minha aplicação.
+
+- Integração com API de Terceiros: Desejo aprender como integrar APIs externas ao meu projeto.
+
+- Git e Fluxo de Trabalho em Equipe: Quero aprender a usar Git de forma mais avançada, colaborando com outros desenvolvedores em projetos grandes de   maneira eficiente e organizada.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
